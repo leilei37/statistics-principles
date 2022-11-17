@@ -1,0 +1,65 @@
+genotype preparation
+1. sequencing
+2. imputation
+
+phenotype preparation
+1. BLU
+
+basic statistics
+1. distrubution
+   zscore(normalization standardization)
+2. corelate(pearson,spearman,kendall,
+            fisher,chip-squared test)
+3. bayasi
+4. how to calculate 'r2'?
+5. bonferroni
+
+GWAS
+1. kinship(欧氏距离）
+2. ANO
+   How to deal with population strucure?
+3. what are 'lambda'，'P','PVE','effect size'?
+4. conditional analysis
+5. how to pick 'p threshold'?
+  (how to calculate independent snp?)
+
+TWAS
+1. genomic prediction(G matrix)
+   prediction acuracy(cross validation)
+2. 
+
+intergrate
+1. colocalization
+2. MR
+
+ATAC-seq
+1. chrom accessibility region(where, function)
+2. sequencing
+3. flow and note
+
+bisfule-seq
+1. sequencing
+2. flow and note
+3. DMR
+
+RNA-seq
+https://ming-lian.github.io/2019/02/08/Stat-on-RNAseq/
+1.sequencing(depth,coverage,library)https://www.jieandze1314.com/post/cnposts/239/
+  批次效应 batch
+2.how to aligh
+3.flow and note
+
+find DEG
+1.deseq principles
+  qc
+  最小二乘法
+
+WGCNA
+1.soft threshold
+
+SNP,SV
+
+Interpreting literature：
+Using Interactome Big Data to Crack Genetic Mysteries and Enhance Future Crop Breeding - ScienceDirect
+
+
